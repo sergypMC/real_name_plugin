@@ -1,2 +1,2 @@
 # real_name_plugin
-A in chinese realname plugins 
+A in chinese realname plugins
