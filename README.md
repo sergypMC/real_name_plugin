@@ -1,2 +1,9 @@
-# real_name_plugin
-A in chinese realname plugins
+hello 我开发了一个实名+收集玩家信息的一个插件
+
+编辑人：我
+参与人：我
+版本1.0
+语言：简体中文
+
+Q：这可以干什么？
+A：当你的玩家被骂时 你可以给他们出示身份证号码和姓名 以便起诉
